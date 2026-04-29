@@ -67,9 +67,6 @@ Currently, I work as a **Junior Data Engineer at KIS Solutions** and serve as a 
 <a href="mailto:luisa123lurati@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumiis2&layout=compact&theme=vision-ff-dark&hide_border=true" />
-</p>
 
 ---
 
