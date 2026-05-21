@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="Intro.png" width="100%" />
-</div>
+<div align="center"><img src="Intro.png" width="100%" /></div>
 
 # Hi there, I'm Luisa!
 
