@@ -1,8 +1,6 @@
 <div align="center"><img src="Intro.png" width="100%" /></div>
 
-# Hi there, I'm Luisa!
-
-I am a Computer Science student at UFMG (Brazil) currently working as a Data Engineer in the international tech industry. Alongside engineering, I serve as a Data Science Mentor in a corporate residency program and develop applied research in Machine Learning, aiming to build data-driven architecture that powers state-of-the-art intelligent systems.
+Hi there, I'm Luisa! I am a Computer Science student at UFMG (Brazil) currently working as a Data Engineer in the international tech industry. Alongside engineering, I serve as a Data Science Mentor in a corporate residency program and develop applied research in Machine Learning, aiming to build data-driven architecture that powers state-of-the-art intelligent systems.
 
 ---
 
