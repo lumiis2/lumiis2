@@ -1,7 +1,6 @@
 <p align="center">
   <img src="Intro.png" width="100%" />
 </p>
----
 
 ## Hi there, I'm Luisa!
 
