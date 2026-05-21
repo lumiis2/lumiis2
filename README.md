@@ -36,12 +36,11 @@ Hi there, I'm Luisa! I am a Computer Science student at UFMG (Brazil) currently 
 
 ### Fun Facts
 
-**Artist:** Drawing and painting are my favorite ways to recharge.
-**Animation:** Huge fan of Anime and Independent Animation (shoutout to Le Goblins).
-**Reading:** Currently reading *Berserk*, *One Piece*, and *The Summer Hikaru Died*.
-**Fitness:** Gym & Calisthenics enthusiast.
-**Global Science:** Presented research in **South Korea** and **Chile**, and studied ML in **Serbia**.
-
+* **Artist:** Drawing and painting are my favorite ways to recharge.
+* **Animation:** Huge fan of Anime and Independent Animation (shoutout to Le Goblins).
+* **Reading:** Currently reading *Berserk*, *One Piece*, and *The Summer Hikaru Died*.
+* **Fitness:** Gym & Calisthenics enthusiast.
+* **Global Science:** Presented research in **South Korea** and **Chile**, and studied ML in **Serbia**.
 
 ---
 
